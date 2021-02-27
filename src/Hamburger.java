@@ -1,2 +1,2 @@
-public class Hamburger {
+package PACKAGE_NAME;public class Hamburger {
 }
